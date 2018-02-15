@@ -12,5 +12,5 @@ The program reads a file with years and writes a new file saying if each year is
 Ignores lines with incorrect years.
 
 #### Use
-` java -jar LeapYears.jar input output `
+` java -jar LeapYears.jar path/input path/output `
 
